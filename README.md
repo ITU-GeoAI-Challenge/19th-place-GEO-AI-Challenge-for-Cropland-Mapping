@@ -13,7 +13,7 @@
 > 1. **Dataset** Folder Contains Training and Testing Sentinel-2 Vegetation Indices.
 > 2. **Notebook** Folder Contains Jupyter Notebook File which explains from data download to data analysis to final model selection and evaluation.
 > 3. **saved model** Folder contains final model from Hyperparameter Optimization
-> 4. **Submission Folder** conatins the submission csv file of Test Results and Brief explaination documented Report.
+> 4. **Submission Folder** conatins the submission csv file of Test Results and Brief explaination documented Report, and Presentation PPT.
 
 
 ### Overall Test Results
