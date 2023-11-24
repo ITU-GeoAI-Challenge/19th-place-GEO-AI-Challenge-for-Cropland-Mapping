@@ -27,19 +27,22 @@
 ### Crop Area Extent Map
 
 - Sudan
-![Example Image](Submission/SudanCropLand.png)
+
+![Sudan](Submission/SudanCropLand.png)
 
 
 
 
 - Iran
-![Example Image](Submission/IranCropLand.png)
+  
+![Iran](Submission/IranCropLand.png)
 
 
 
 
 - Afganistan
-![Example Image](Submission/AfghanCropLand.png)
+  
+![Afghan](Submission/AfghanCropLand.png)
 
 
 
